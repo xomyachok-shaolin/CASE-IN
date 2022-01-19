@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: 900;
+}
+
+.sz1 {
+    margin-left: 250px;
+    float: left;
+}
+
+.sz2 {
+    float: right;
+    margin-right: 250px;
+}
+
+.clearfix {
+    clear: both;
+}
